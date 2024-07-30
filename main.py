@@ -24,13 +24,13 @@
     def game():
 
         # Uygulama İconları eklendi
-        ubisoft_img=customtkinter.CTkImage(dark_image=Image.open ("images/pngwing.com (1).png"),
+        ubisoft_img=customtkinter.CTkImage(dark_image=Image.open ("pngwing.com (1).png"),
                                            size=(80,80))
-        steam_img = customtkinter.CTkImage(dark_image=Image.open ("images/pngwing.com.png"),
+        steam_img = customtkinter.CTkImage(dark_image=Image.open ("pngwing.com.png"),
                                            size=(50,50))
-        ea_img = customtkinter.CTkImage(dark_image=Image.open ("images/pngwing.com (3).png"),
+        ea_img = customtkinter.CTkImage(dark_image=Image.open ("pngwing.com (3).png"),
                                            size=(60,60))
-        epic_img = customtkinter.CTkImage(dark_image=Image.open ("images/pngwing.com (4).png"),
+        epic_img = customtkinter.CTkImage(dark_image=Image.open ("pngwing.com (4).png"),
                                            size=(60,60))
 
         #uygulamalara erişim için dosya yolları belirtildi
@@ -169,9 +169,9 @@
                         rely=0.5,
                         anchor=customtkinter.CENTER)
         # Uygulama İconları eklendi
-        brave_img=customtkinter.CTkImage(dark_image=Image.open ("images/brave-browser-icon.png"),
+        brave_img=customtkinter.CTkImage(dark_image=Image.open ("brave-browser-icon.png"),
                                          size=(50,55))
-        edge_img = customtkinter.CTkImage(dark_image=Image.open ("images/edge-browser-icon.png"),
+        edge_img = customtkinter.CTkImage(dark_image=Image.open ("edge-browser-icon.png"),
                                          size=(50,50))
 
         # uygulamalara erişim için dosya yolları belirtildi
@@ -251,17 +251,17 @@
                         rely=0.5,
                         anchor=customtkinter.CENTER)
         # Uygulama İconları eklendi
-        librew_img=customtkinter.CTkImage(dark_image=Image.open ("images/LibreOffice_Writer-Logo.wine.png"),
+        librew_img=customtkinter.CTkImage(dark_image=Image.open ("LibreOffice_Writer-Logo.wine.png"),
                                           size=(100,75))
-        libreb_img=customtkinter.CTkImage(dark_image=Image.open ("images/LibreOffice_Base-Logo.wine.png"),
+        libreb_img=customtkinter.CTkImage(dark_image=Image.open ("LibreOffice_Base-Logo.wine.png"),
                                           size=(100,75))
-        librec_img=customtkinter.CTkImage(dark_image=Image.open ("images/LibreOffice_Calc-Logo.wine.png"),
+        librec_img=customtkinter.CTkImage(dark_image=Image.open ("LibreOffice_Calc-Logo.wine.png"),
                                           size=(100,75))
-        libred_img=customtkinter.CTkImage(dark_image=Image.open ("images/LibreOffice_Draw-Logo.wine.png"),
+        libred_img=customtkinter.CTkImage(dark_image=Image.open ("LibreOffice_Draw-Logo.wine.png"),
                                           size=(100,75))
-        librei_img=customtkinter.CTkImage(dark_image=Image.open ("images/libreofficeimpress_94297.png"),
+        librei_img=customtkinter.CTkImage(dark_image=Image.open ("libreofficeimpress_94297.png"),
                                           size=(50,50))
-        librem_img=customtkinter.CTkImage(dark_image=Image.open ("images/libreoffice_math_icon_181054.png"),
+        librem_img=customtkinter.CTkImage(dark_image=Image.open ("libreoffice_math_icon_181054.png"),
                                           size=(50,50))
 
         # uygulamalara erişim için dosya yolları belirtildi
@@ -462,23 +462,23 @@
 
         # Uygulama İconları eklendi
 
-        p1_img=customtkinter.CTkImage(dark_image=Image.open ("images/pycharm.png"),
+        p1_img=customtkinter.CTkImage(dark_image=Image.open ("pycharm.png"),
                                       size=(50,50))
-        p2_img=customtkinter.CTkImage(dark_image=Image.open ("images/visual.png"),
+        p2_img=customtkinter.CTkImage(dark_image=Image.open ("visual.png"),
                                       size=(50,50))
-        p3_img=customtkinter.CTkImage(dark_image=Image.open ("images/emeditor.png"),
+        p3_img=customtkinter.CTkImage(dark_image=Image.open ("emeditor.png"),
                                       size=(50,50))
-        p4_img=customtkinter.CTkImage(dark_image=Image.open ("images/eclipse.png"),
+        p4_img=customtkinter.CTkImage(dark_image=Image.open ("eclipse.png"),
                                       size=(50,50))
-        p5_img=customtkinter.CTkImage(dark_image=Image.open ("images/filezilla.png"),
+        p5_img=customtkinter.CTkImage(dark_image=Image.open ("filezilla.png"),
                                       size=(50,50))
-        p6_img=customtkinter.CTkImage(dark_image=Image.open ("images/git.png"),
+        p6_img=customtkinter.CTkImage(dark_image=Image.open ("git.png"),
                                       size=(50,50))
-        p7_img=customtkinter.CTkImage(dark_image=Image.open ("images/github.png"),
+        p7_img=customtkinter.CTkImage(dark_image=Image.open ("github.png"),
                                       size=(70,70))
-        p8_img=customtkinter.CTkImage(dark_image=Image.open ("images/unreal.png"),
+        p8_img=customtkinter.CTkImage(dark_image=Image.open ("unreal.png"),
                                       size=(60,60))
-        p9_img=customtkinter.CTkImage(dark_image=Image.open ("images/unity.png"),
+        p9_img=customtkinter.CTkImage(dark_image=Image.open ("unity.png"),
                                       size=(50,50))
 
         # uygulamalara erişim için dosya yolları belirtildi
@@ -826,19 +826,19 @@
                           rely=0.5,
                           anchor=customtkinter.CENTER)
 
-    gameMenu_img=customtkinter.CTkImage(dark_image=Image.open ("images/gaming-gamepad-icon.png"),
+    gameMenu_img=customtkinter.CTkImage(dark_image=Image.open ("gaming-gamepad-icon.png"),
                                         size=(40,30))
-    progMenu_img=customtkinter.CTkImage(dark_image=Image.open ("images/code-icon.png"),
+    progMenu_img=customtkinter.CTkImage(dark_image=Image.open ("code-icon.png"),
                                         size=(40,30))
-    browMenu_img=customtkinter.CTkImage(dark_image=Image.open ("images/browser-safari-icon.png"),
+    browMenu_img=customtkinter.CTkImage(dark_image=Image.open ("browser-safari-icon.png"),
                                         size=(40,40))
-    officeMenu_img=customtkinter.CTkImage(dark_image=Image.open ("images/briefcase-icon.png"),
+    officeMenu_img=customtkinter.CTkImage(dark_image=Image.open ("briefcase-icon.png"),
                                           size=(40,30))
-    spotify_img=customtkinter.CTkImage(dark_image=Image.open ("images/spotify.png"),
+    spotify_img=customtkinter.CTkImage(dark_image=Image.open ("spotify.png"),
                                        size=(60,60))
-    youtube_img=customtkinter.CTkImage(dark_image=Image.open ("images/youtube.png"),
+    youtube_img=customtkinter.CTkImage(dark_image=Image.open ("youtube.png"),
                                        size=(40,40))
-    gpt_img=customtkinter.CTkImage(dark_image=Image.open ("images/gpt.png"),
+    gpt_img=customtkinter.CTkImage(dark_image=Image.open ("gpt.png"),
                                        size=(35,35))
 
     def spotify():
